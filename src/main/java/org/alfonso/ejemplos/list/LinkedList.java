@@ -1,4 +1,4 @@
-package org.alfonso.ejemplos;
+package org.alfonso.ejemplos.list;
 
 import org.alfonso.ejemplos.models.Alumno;
 
